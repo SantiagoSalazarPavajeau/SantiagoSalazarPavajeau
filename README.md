@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Aspiring Software Engineer with a passion for problem solving and innovative technical projects. Experienced in project management, database building, and project coordination. Looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
+
 <!--
 **SantiagoSalazarPavajeau/SantiagoSalazarPavajeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
