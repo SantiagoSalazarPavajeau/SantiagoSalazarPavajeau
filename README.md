@@ -8,7 +8,7 @@ With a passion big for problem-solving and innovative technical projects. Experi
 🔭 I’m currently working on ...
 * [A project management app or "Team Todos" in React](https://santiagosalazarpavajeau.github.io/react-projects/#/projects)
 * [A music-jam app in Vanilla Javascript](santiagosalazarpavajeau.github.io/chords_beats_frontend/)
-* [A community for fellow Young Fathers in Ruby on Rails](https://pure-island-81017.herokuapp.com/)
+* [A community for fellow young fathers in Ruby on Rails](https://pure-island-81017.herokuapp.com/)
 * [Algorithms](https://github.com/SantiagoSalazarPavajeau/coding_challenges)
 
 
