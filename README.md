@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Business management administrator with a background in science turned Software Developer with a passion for problem-solving and innovative technical projects. Experienced in project management, database building, and project coordination. Looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
+I am a business management administrator with a background in science who finally discovered programming and became a Software Engineer (best thing ever!). 
+
+With a passion big for problem-solving and innovative technical projects. Experienced in project management, database building, and project coordination. Looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
+
 
 🔭 I’m currently working on ...
 * [A project management app or "Team Todos" in React](https://santiagosalazarpavajeau.github.io/react-projects/#/projects)
@@ -8,9 +11,9 @@ Business management administrator with a background in science turned Software D
 * [A community for fellow Young Fathers in Ruby on Rails](https://pure-island-81017.herokuapp.com/)
 * [Algorithms](https://github.com/SantiagoSalazarPavajeau/coding_challenges)
 
-⚡ Fun fact: ...
-* I recorded all the instruments on my high school music album (over 10 years ago) and then played the songs in the battle of the bands with some great friends.
 
+⚡ Fun facts: ...
+* I wrote all the music and recorded all the instruments on my high school band album (over 10 years ago) and then played the songs in the battle of the bands with some great friends.
 * I sell random t-shirts and other merch in amazon.
 
 <!--
