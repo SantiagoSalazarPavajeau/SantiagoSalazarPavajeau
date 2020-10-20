@@ -1,6 +1,17 @@
 ### Hi there 👋
 
-I'm a Software Engineer with an interdisciplinary background and a passion for technical projects. Experienced in project management, database building, and project coordination. Looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
+Business management administrator with a background in science turned Software Developer with a passion for problem-solving and innovative technical projects. Experienced in project management, database building, and project coordination. Looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
+
+- 🔭 I’m currently working on ...
+[A project management app or "Team Todos" in React](https://santiagosalazarpavajeau.github.io/react-projects/#/projects)
+[A music-jam app in Vanilla Javascript](santiagosalazarpavajeau.github.io/chords_beats_frontend/)
+[A community for fellow Young Fathers in Ruby on Rails](https://pure-island-81017.herokuapp.com/)
+[Algorithms](https://github.com/SantiagoSalazarPavajeau/coding_challenges)
+
+- ⚡ Fun fact: ...
+* I recorded all the instruments on my high school music album (over 10 years ago) and then played the songs in the battle of the bands with some great friends.
+
+* I sell random t-shirts and other merch in amazon.
 
 <!--
 **SantiagoSalazarPavajeau/SantiagoSalazarPavajeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
