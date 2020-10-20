@@ -13,7 +13,7 @@ With a passion big for problem-solving and innovative technical projects. Experi
 
 
 ⚡ Fun facts: ...
-* I wrote all the music and recorded all the instruments on my high school band album (over 10 years ago) and then played the songs in the battle of the bands with some great friends.
+* I wrote all the music and recorded all the instruments on my high school band album (over 10 years ago!) and then played the songs in the battle of the bands with some great friends.
 * I sell random t-shirts and other merch in amazon.
 
 <!--
