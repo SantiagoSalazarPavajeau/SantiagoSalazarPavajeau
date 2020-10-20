@@ -2,7 +2,7 @@
 
 I am a business management administrator with a background in science who finally discovered programming and became a Software Engineer (best thing ever!). 
 
-With a passion big for problem-solving and innovative technical projects. Experienced in project management, database building, and project coordination. Looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
+I have a big passion for problem-solving and innovative technical projects. Experienced in project management, database building, and project coordination and looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
 
 
 🔭 I’m currently working on ...
