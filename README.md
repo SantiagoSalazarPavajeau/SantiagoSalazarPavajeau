@@ -13,6 +13,7 @@ I have a big passion for problem-solving and innovative technical projects. Expe
 
 
 ⚡ Fun facts: ...
+* I have a wonderfully smart 10 year old daughter, and I am 19 years older.
 * I wrote all the music and recorded all the instruments on my high school band album (over 10 years ago!) and then played the songs in the battle of the bands with some great friends.
 * I have t-shirts and other merch on an e-commerce platform in amazon (IP free or original designs).
 
