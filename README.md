@@ -12,9 +12,9 @@ I am a business management administrator with a background in science who finall
 
 ⚡ Fun facts: ...
 * I have a wonderfully smart 10 year old daughter that was born when I was 19.
-* I wrote all the music and recorded all the instruments in Logic for my high school alternative rock band (over 10 years ago!) and then played the songs in the battle of the bands with some great friends.
-* I have tons t-shirts and other merch on an e-commerce platform of amazon (IP free or original designs).
-* I love mountains, outdoors, and hiking!
+* Before this I wrote and recorded an alt-rock album in Logic for our high school band (over 10 years ago!) and then played the songs in the battle of the bands with some great friends.
+* Have hundrends of t-shirts and other merch over the internet from working on an e-commerce platform for amazon (IP free or original designs) while traveling.
+* 🌱 I love mountains, outdoors, and hiking!
 
 <!--
 **SantiagoSalazarPavajeau/SantiagoSalazarPavajeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
