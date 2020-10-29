@@ -2,8 +2,6 @@
 
 I am a business management administrator with a background in science who finally discovered programming and became a Software Engineer (best thing ever!). 
 
-I have a big passion for problem-solving and innovative technical projects. Experienced in project management, database building, and project coordination and looking to partner with a company with an open culture that values collaboration, creative advancement, and cutting edge technology development.
-
 
 🔭 I’m currently working on ...
 * [A project management app or "Team Todos" in React](https://santiagosalazarpavajeau.github.io/react-projects/#/projects)
@@ -16,6 +14,7 @@ I have a big passion for problem-solving and innovative technical projects. Expe
 * I have a wonderfully smart 10 year old daughter that was born when I was 19.
 * I wrote all the music and recorded all the instruments in Logic for my high school alternative rock band (over 10 years ago!) and then played the songs in the battle of the bands with some great friends.
 * I have tons t-shirts and other merch on an e-commerce platform of amazon (IP free or original designs).
+* I love mountains, outdoors, and hiking!
 
 <!--
 **SantiagoSalazarPavajeau/SantiagoSalazarPavajeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
