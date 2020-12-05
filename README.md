@@ -4,7 +4,7 @@ I am a business management administrator with a background in science who finall
 
 
 🔭 I’m currently working on ...
-* [Dev.to Blog](https://dev.to/santispavajeau)
+* [Dev.to blog](https://dev.to/santispavajeau)
 * [A project management app or "Team Todos" in React](https://santiagosalazarpavajeau.github.io/react-projects/#/projects)
 * [A music-jam app in Vanilla Javascript](https://santiagosalazarpavajeau.github.io/chords_beats_frontend/)
 * [A community for fellow young fathers in Ruby on Rails](https://pure-island-81017.herokuapp.com/)
