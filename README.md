@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a business management administrator with a background in science who finally discovered programming and became a Software Engineer (best thing ever!). 
+I am a software engineer with a background in business and science who finally discovered programming and became a Software Engineer (best thing ever!). 
 
 
 🔭 I’m currently working on ...
