@@ -12,7 +12,7 @@ I am a software engineer with a background in business and science who finally d
 
 
 ⚡ Fun facts: ...
-* I have a wonderfully smart 11 year old daughter that was born when I was 19.
+* I have a wonderfully smart 14 year old daughter that was born when I was 19.
 * Always been a musician at heart and single-handedly wrote and recorded an alt-rock album in Logic (over 10 years ago!) and then performed the album live some great friends, recently been focusing on technology like synths, drum machines, etc.
 * Have hundrends of t-shirts and other merch over the internet from working on an e-commerce platform for amazon (IP free or original designs) while traveling.
 * 🌱 I love mountains, outdoors, and hiking!
