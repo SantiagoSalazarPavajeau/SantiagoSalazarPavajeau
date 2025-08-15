@@ -1,21 +1,12 @@
 ### Hi there 👋
 
-I am a software engineer with a background in business and science who finally discovered programming (best thing ever!). 
-
-
-🔭 I’m currently working on ...
-* [Dev.to blog](https://dev.to/santispavajeau)
-* [A project management app or "Team Todos" in React](https://santiagosalazarpavajeau.github.io/react-projects/#/projects)
-* [A music-jam app in Vanilla Javascript](https://santiagosalazarpavajeau.github.io/chords_beats_frontend/)
-* [A community for fellow young fathers in Ruby on Rails](https://pure-island-81017.herokuapp.com/)
-* [Algorithms](https://github.com/SantiagoSalazarPavajeau/coding_challenges)
-
+I am a Senior Site Reliability Engineer passionate about making complex systems fast, resilient, and easy to operate. From managing 20k+ clusters in AWS to automating away thousands of alerts, I design infrastructure that just works — and keeps working.
 
 ⚡ Fun facts: ...
-* I have a wonderfully smart 14 year old daughter that was born when I was 19.
-* Always been a musician at heart and single-handedly wrote and recorded an alt-rock album in Logic (over 10 years ago!) and then performed the album live some great friends, recently been focusing on technology like synths, drum machines, etc.
-* Have hundrends of t-shirts and other merch over the internet from working on an e-commerce platform for amazon (IP free or original designs) while traveling.
-* 🌱 I love mountains, outdoors, and hiking!
+* I have a wonderfully smart 15 year old daughter that was born when I was 19.
+* I live for music.
+* I have an entrepeur mindset.
+* 🌱 I love cycling, running, mountains, outdoors, and hiking!
 
 <!--
 **SantiagoSalazarPavajeau/SantiagoSalazarPavajeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
