@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Site Reliability Engineer passionate about making complex systems fast, resilient, and easy to operate. From managing 20k+ clusters in AWS to automating away thousands of alerts, I design infrastructure that just works — and keeps working.
+I am a Senior Site Reliability Engineer passionate about making complex systems fast, resilient, and easy to operate. From managing 2k+ clusters in AWS to automating away thousands of alerts, I design infrastructure that just works — and keeps working.
 
 ⚡ Fun facts: ...
 * I have a wonderfully smart 15 year old daughter that was born when I was 19.
