@@ -5,7 +5,7 @@ I am a Senior Site Reliability Engineer passionate about making complex systems 
 ⚡ Fun facts: ...
 * I have a wonderfully smart 15 year old daughter that was born when I was 19.
 * I live for music.
-* I have an entrepeur mindset.
+* I have an entrepeneur mindset.
 * 🌱 I love cycling, running, mountains, outdoors, and hiking!
 
 <!--
